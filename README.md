@@ -7,7 +7,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Landing**, **Staging**, and **Production** layers:
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](docs/Etl.png)
 
 1. **Landing Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Staging Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
