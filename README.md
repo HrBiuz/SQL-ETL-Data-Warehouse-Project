@@ -63,6 +63,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 SQL-ETL-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+|
+├── docs/                           # Architectural image of the ETL 
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── Landing/                         # Scripts for extracting and loading raw data
